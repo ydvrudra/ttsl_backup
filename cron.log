@@ -1,0 +1,154 @@
+[2025-12-17T05:08:00.036Z] Cron started
+[2025-12-17T05:08:37.180Z] ttsl Success: 69 rates
+[2025-12-17T05:08:54.558Z] SJA Success: 26 rates
+[2025-12-17T05:08:54.559Z] Cron completed
+
+[2026-02-02T09:32:00.065Z] Cron started
+[2026-02-12T10:14:00.040Z] Cron started
+[2026-02-12T10:14:45.836Z] ttsl Success: 69 rates
+[2026-02-12T10:15:05.598Z] SJA Success: 26 rates
+[2026-02-12T10:15:05.602Z] Cron completed
+
+[2026-02-16T14:30:00.037Z] Cron started
+[2026-02-16T14:30:00.050Z] Cron started
+[2026-02-16T14:30:55.210Z] ttsl Success: 69 rates
+[2026-02-16T14:30:55.246Z] ttsl Success: 69 rates
+[2026-02-16T14:31:18.968Z] SJA Success: 26 rates
+[2026-02-16T14:31:18.969Z] SJA Success: 26 rates
+[2026-02-16T14:31:18.970Z] Cron completed
+
+[2026-02-16T14:31:18.970Z] Cron completed
+
+[2026-02-17T09:19:00.051Z] Cron started
+[2026-02-17T09:19:00.051Z] Cron started
+[2026-02-17T09:19:45.130Z] ttsl Success: 69 rates
+[2026-02-17T09:19:45.131Z] ttsl Success: 69 rates
+[2026-02-17T09:20:04.791Z] SJA Success: 26 rates
+[2026-02-17T09:20:04.792Z] SJA Success: 26 rates
+[2026-02-17T09:20:04.794Z] Cron completed
+
+[2026-02-17T09:20:04.797Z] Cron completed
+
+[2026-02-19T04:25:00.038Z] Cron started
+[2026-02-19T04:25:00.038Z] Cron started
+[2026-02-19T04:25:44.945Z] ttsl Success: 69 rates
+[2026-02-19T04:25:44.949Z] ttsl Success: 69 rates
+[2026-02-19T04:26:04.785Z] SJA Success: 26 rates
+[2026-02-19T04:26:04.787Z] Cron completed
+
+[2026-02-19T04:26:04.789Z] SJA Success: 26 rates
+[2026-02-19T04:26:04.791Z] Cron completed
+
+[2026-02-27T12:14:00.049Z] Cron started
+[2026-02-27T12:14:46.150Z] ttsl Success: 69 rates
+[2026-02-27T12:15:06.022Z] SJA Success: 26 rates
+[2026-02-27T12:15:06.023Z] Cron completed
+
+[2026-03-09T06:41:00.050Z] Cron started
+[2026-03-09T06:41:00.054Z] CRON Failed: consol is not defined
+
+[2026-03-09T06:42:00.023Z] Cron started
+[2026-03-09T06:42:41.184Z] ttsl Success: 69 rates
+[2026-03-09T06:42:59.040Z] SJA Success: 26 rates
+[2026-03-09T06:42:59.043Z] Cron completed
+
+[2026-03-13T05:51:00.046Z] Cron started
+[2026-03-13T05:51:44.591Z] ttsl Success: 69 rates
+[2026-03-13T05:52:03.247Z] SJA Success: 26 rates
+[2026-03-13T05:52:03.249Z] Cron completed
+
+[2026-03-23T06:06:00.030Z] Cron started
+[2026-03-23T06:06:43.855Z] ttsl Success: 69 rates
+[2026-03-23T06:07:04.217Z] SJA Success: 27 rates
+[2026-03-23T06:07:04.219Z] Cron completed
+
+[2026-03-26T05:20:00.038Z] Cron started
+[2026-03-26T05:20:45.715Z] ttsl Success: 69 rates
+[2026-03-26T05:21:05.863Z] SJA Success: 27 rates
+[2026-03-26T05:21:05.866Z] Cron completed
+
+[2026-03-27T08:47:00.065Z] Cron started
+[2026-03-27T08:47:45.384Z] ttsl Success: 69 rates
+[2026-03-27T08:48:05.250Z] SJA Success: 27 rates
+[2026-03-27T08:48:05.253Z] Cron completed
+
+[2026-03-30T06:51:00.048Z] Cron started
+[2026-03-30T06:51:45.579Z] ttsl Success: 69 rates
+[2026-03-30T06:52:06.266Z] SJA Success: 27 rates
+[2026-03-30T06:52:06.268Z] Cron completed
+
+[2026-03-30T08:47:00.266Z] Cron started
+[2026-03-30T08:47:41.596Z] ttsl Success: 69 rates
+[2026-03-30T08:47:59.947Z] SJA Success: 27 rates
+[2026-03-30T08:47:59.949Z] Cron completed
+
+[2026-03-31T08:47:00.313Z] Cron started
+[2026-03-31T08:47:45.189Z] ttsl Success: 69 rates
+[2026-03-31T08:48:04.566Z] SJA Success: 27 rates
+[2026-03-31T08:48:04.567Z] Cron completed
+
+[2026-04-01T08:47:00.133Z] Cron started
+[2026-04-01T08:47:46.150Z] ttsl Success: 69 rates
+[2026-04-01T08:48:05.692Z] SJA Success: 27 rates
+[2026-04-01T08:48:05.698Z] Cron completed
+
+[2026-04-06T04:37:00.032Z] Cron started
+[2026-04-06T04:37:40.786Z] ttsl Success: 69 rates
+[2026-04-06T04:37:58.983Z] SJA Success: 27 rates
+[2026-04-06T04:37:58.986Z] Cron completed
+
+[2026-04-06T08:47:00.176Z] Cron started
+[2026-04-06T08:47:47.053Z] ttsl Success: 69 rates
+[2026-04-06T08:53:01.905Z] SJA Error: getaddrinfo ENOTFOUND api.exchangerate-api.com
+[2026-04-06T08:53:02.132Z] Cron completed
+
+[2026-04-07T08:44:00.056Z] Cron started
+[2026-04-07T08:44:45.383Z] ttsl Success: 69 rates
+[2026-04-07T08:45:05.550Z] SJA Success: 27 rates
+[2026-04-07T08:45:05.552Z] Cron completed
+
+[2026-04-08T08:47:00.214Z] Cron started
+[2026-04-08T08:47:41.274Z] ttsl Success: 69 rates
+[2026-04-08T08:47:59.660Z] SJA Success: 27 rates
+[2026-04-08T08:47:59.665Z] Cron completed
+
+[2026-04-09T08:47:00.327Z] Cron started
+[2026-04-09T08:47:44.780Z] ttsl Success: 69 rates
+[2026-04-09T08:48:04.538Z] SJA Success: 27 rates
+[2026-04-09T08:48:04.541Z] Cron completed
+
+[2026-04-10T08:47:00.346Z] Cron started
+[2026-04-10T08:47:44.596Z] ttsl Success: 69 rates
+[2026-04-10T08:48:03.673Z] SJA Success: 27 rates
+[2026-04-10T08:48:03.674Z] Cron completed
+
+[2026-04-13T12:01:00.030Z] Cron started
+[2026-04-13T12:01:37.939Z] ttsl Success: 69 rates
+[2026-04-13T12:01:56.284Z] SJA Success: 27 rates
+[2026-04-13T12:01:56.285Z] Cron completed
+
+[2026-04-14T05:37:00.048Z] Cron started
+[2026-04-14T05:37:37.985Z] ttsl Success: 69 rates
+[2026-04-14T05:37:56.354Z] SJA Success: 27 rates
+[2026-04-14T05:37:56.356Z] Cron completed
+
+[2026-04-15T05:37:00.148Z] Cron started
+[2026-04-15T05:37:38.577Z] ttsl Success: 69 rates
+[2026-04-15T05:37:57.300Z] SJA Success: 27 rates
+[2026-04-15T05:37:57.302Z] Cron completed
+
+[2026-04-16T06:54:00.045Z] Cron started
+[2026-04-16T06:54:43.208Z] ttsl Success: 69 rates
+[2026-04-16T06:55:03.282Z] SJA Success: 27 rates
+[2026-04-16T06:55:03.286Z] Cron completed
+
+[2026-04-17T06:54:00.158Z] Cron started
+[2026-04-17T06:54:42.046Z] ttsl Success: 69 rates
+[2026-04-17T06:55:02.316Z] SJA Success: 27 rates
+[2026-04-17T06:55:02.320Z] Cron completed
+
+[2026-04-20T06:54:00.120Z] Cron started
+[2026-04-20T06:54:41.309Z] ttsl Success: 69 rates
+[2026-04-20T06:55:00.060Z] SJA Success: 27 rates
+[2026-04-20T06:55:00.061Z] Cron completed
+
